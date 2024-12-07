@@ -3,7 +3,7 @@
 
 This project goes over my novel discovery in applying text classification with sentiment analysis in a LSTM model to better find AI generated Phishing emails. 
 
-At the very end there are these links to view the data and my code. First one is the base level LSTM model and the second one is the novel senitment scoring LSTM model. 
+At the very end of my report there are these links to view the data and my code. First one is the dataset, second one is the base level LSTM model, and the third one is the novel senitment scoring LSTM model. 
 
 Data Source: [KaggleLink](https://www.kaggle.com/datasets/naserabdullahalam/phishing-email-dataset?select=Enron.csv) 
 
